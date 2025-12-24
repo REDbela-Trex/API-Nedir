@@ -24,6 +24,7 @@ Bu iletişim genellikle **HTTP** üzerinden ve **JSON** ya da **XML** formatınd
 
 ### Kullanım alanına göre
 
+---
 * **Özel (Private / DAhili) API**
 
 Sadece kurum içi sistemlerde kullanılır.
@@ -38,6 +39,7 @@ Sadece iç ortaklarına açıktır.
 Birden fazla API'yi tek uç noktada birleştirir.
 ### Mimariye göre
 
+---
 * **REST API**
 
 En yaygın kullanılan API türüdür.
