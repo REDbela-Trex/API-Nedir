@@ -104,11 +104,11 @@ Farklı sistemlerin sorunsuz şekilde haberleşmesini sağlar projeleri daha hı
 
 ## Kaynaklar
 
-- Patika.dev – API Nedir, Ne İşe Yarar  
-  https://www.patika.dev/blog/api-nedir-api-ne-ise-yarar
+- [Patika.dev – API Nedir, Ne İşe Yarar](https://www.patika.dev/blog/api-nedir-api-ne-ise-yarar)
+  
 
-- CoderSpace – API Sözlük  
-  https://coderspace.io/sozluk/api/
+- [CoderSpace – API Sözlük](https://coderspace.io/sozluk/api/)
+  
 
-- AWS – API Nedir?  
-  https://aws.amazon.com/tr/what-is/api/
+- [AWS – API Nedir?](https://aws.amazon.com/tr/what-is/api/)
+  
