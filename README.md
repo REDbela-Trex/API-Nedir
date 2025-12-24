@@ -22,7 +22,7 @@ Bu iletişim genellikle **HTTP** üzerinden ve **JSON** ya da **XML** formatınd
 
 ## API Türleri
 
-### Kullanım alanına göre
+### **Kullanım alanına göre**
 
 * **Özel (Private / DAhili) API**
 
@@ -38,7 +38,7 @@ Sadece iç ortaklarına açıktır.
 Birden fazla API'yi tek uç noktada birleştirir.
 
 ---
-### Mimariye göre
+### **Mimariye göre**
 
 * **REST API**
 
