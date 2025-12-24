@@ -101,3 +101,14 @@ API'ler, modern yazılım geliştirmenin temel yapı taşlarından biridir.
 Farklı sistemlerin sorunsuz şekilde haberleşmesini sağlar projeleri daha hızlı ve veirimli hale getirir.
 
 **REST** başta olmak üszere **SOAP**, **RPC** ve **WebSocket** gibi mimariler sayesinde API'ler, web, mobil, masaüstü ve yapay zeka uygulamalarında yaygın olarak kullanılmaktadır.
+
+## Kaynaklar
+
+- Patika.dev – API Nedir, Ne İşe Yarar  
+  https://www.patika.dev/blog/api-nedir-api-ne-ise-yarar
+
+- CoderSpace – API Sözlük  
+  https://coderspace.io/sozluk/api/
+
+- AWS – API Nedir?  
+  https://aws.amazon.com/tr/what-is/api/
