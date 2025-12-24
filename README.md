@@ -16,7 +16,7 @@ API'ler **istemci** (client) ve **sunucu** (server) mantığı ile çalışır.
 
 Sunucu isteği işler
 
-Sonuç istemciye yanır olarak döner
+Sonuç istemciye yanıt olarak döner
 
 Bu iletişim genellikle **HTTP** üzerinden ve **JSON** ya da **XML** formatında gerçekleşir
 
@@ -24,16 +24,39 @@ Bu iletişim genellikle **HTTP** üzerinden ve **JSON** ya da **XML** formatınd
 
 ### Kullanım alanına göre
 
-* **Özel API**
+* **Özel (Private / DAhili) API**
 
 Sadece kurum içi sistemlerde kullanılır.
-* **Açık API**
+* **Açık (Public / Open) API**
 
 Herkesin kullanımına açıktır.
 * **Parner API**
 
 Sadece iç ortaklarına açıktır.
-* **Birleşik API**
+* **Birleşik (Composite) API**
 
-Birden fazla APı'yi tek uç noktada birleştirir.
+Birden fazla API'yi tek uç noktada birleştirir.
 ### Mimariye göre
+
+* **REST API**
+
+En yaygın kullanılan API türüdür.
+
+**HTTP** metodlarını **(GET, POST, PUT, DELETE)** kullanır ve genellikle **JSON** döner.
+
+Durumsuzdur , hızlı ve esnektir.
+* **SOAP API**
+
+**XML** tabanlıdır, yüksek güvenlik sunar.
+
+kurumsal vefinansal sistemlerde tercih edilir.
+* **RPC API**
+
+Sunucudaki bir fonksiyonu uzaktan çağırmaya dayanır.
+
+**JSON-RPC** ve **XML-RPC** yaygındır.
+* **WebSocket API**
+
+Çift yönlü ve gerçek zamanlı iletişim sağlar.
+
+Canlı sohbet,, oyun ve anlık veri uygulamarında kullanılır.s
